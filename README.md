@@ -32,23 +32,29 @@ Este projeto é um sistema web desenvolvido para realizar a gestão de reservas 
 - *Reservas*: Criar e visualizar reservas feitas pelos hóspedes.
 - *API RESTful*: Endpoint para interagir com o sistema via requisições HTTP (GET, POST, PUT, DELETE).
   
-### *Como Rodar o Projeto*
+Aqui está o trecho formatado em Markdown:
 
-1. Clone o repositório:
-   bash
+
+### Como Rodar o Projeto
+
+### Como Rodar o Projeto
+
+1. **Clone o repositório**:
+   ```bash
    git clone https://github.com/LuisH07/sistema-de-reserva-de-quartos-poo.git
-   
 
-2. Entre na pasta do projeto:
-   bash
+
+2. **Entre na pasta do projeto**:
+   ```bash
    cd sistema-de-reserva-de-quartos-poo
-   
+   ```
 
-3. Execute a aplicação:
-   Se estiver usando *Maven*, execute o comando:
-   bash
-   mvn spring-boot:run
-   
-   Ou, se preferir, use a IDE *IntelliJ IDEA* para rodar o projeto.
+3. **Execute a aplicação**:
+   - Se estiver usando Maven, execute o comando:
+     ```bash
+     mvn spring-boot:run
+     ```
+   - Ou, se preferir, use a IDE **IntelliJ IDEA** para rodar o projeto.
 
-4. Acesse a aplicação em http://localhost:8080.
+4. **Acesse a aplicação** em:  
+   [http://localhost:8080](http://localhost:8080)
