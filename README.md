@@ -15,10 +15,13 @@ Este projeto é um sistema web desenvolvido para realizar a gestão de reservas 
 - *Lombok*: Biblioteca para reduzir o código boilerplate, criando automaticamente getters, setters, construtores e outros métodos com anotações simples.
 - *Postman*: Ferramenta usada para testar as APIs RESTful do projeto de maneira fácil e rápida.
 - *GitHub*: Plataforma para versionamento de código, onde o projeto é hospedado e gerenciado.
+- *pgAdmin4*: Interface gráfica para gerenciamento do banco de dados PostgreSQL.
+- *Render*: Plataforma de hospedagem para deploy de aplicações web e APIs.
 
 ### *Possíveis Tecnologias Úteis (Opcionais):*
 - *Docker*: Facilita rodar o banco de dados sem instalação manual, usando contêineres.
 - *Swagger*: Gera documentação automática da API, facilitando a visualização e testes.
+
 
 ---
 
