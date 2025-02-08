@@ -41,11 +41,6 @@ Este projeto é um sistema web desenvolvido para realizar a gestão de reservas 
   - *Docker*: Para criar contêineres e facilitar a implantação (opcional).
   - *GitHub Actions*: Para automação de deploy e CI/CD (opcional).
 
-### *Possíveis Tecnologias Úteis (Opcionais):*
-- *Docker*: Facilita rodar o banco de dados sem instalação manual, usando contêineres.
-- *Swagger*: Gera documentação automática da API, facilitando a visualização e testes.
-
-
 ---
 
 ### *Funcionalidades*
