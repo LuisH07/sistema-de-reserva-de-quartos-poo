@@ -37,7 +37,6 @@ Este projeto é um sistema web desenvolvido para realizar a gestão de reservas 
   
 - **Implantação e Deploy**
   - *Render*: Plataforma de hospedagem para deploy de aplicações web e APIs.
-  - *Railway (Alternativa)*: Outra opção gratuita para deploy de aplicações Java.
   - *Docker*: Para criar contêineres e facilitar a implantação (opcional).
   - *GitHub Actions*: Para automação de deploy e CI/CD (opcional).
 
